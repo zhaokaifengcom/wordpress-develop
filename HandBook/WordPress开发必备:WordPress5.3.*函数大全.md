@@ -14711,7 +14711,9 @@ Source: wp-includes/deprecated.php:2016
 Used by 0 functions | Uses 2 functions
 
 References:
+
 [1]. Functions | WordPress Developer Resources
+
 https://developer.wordpress.org/reference/functions/
 
 *EOF*
